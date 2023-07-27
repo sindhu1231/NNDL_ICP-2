@@ -6,5 +6,5 @@ Name: Sindhu Santhosham
 
 ID:700740448
 
-Video : https://drive.google.com/file/d/1mfRUWSfS9072Ceq4h1EQYd7zT577m-vN/view?usp=drive_link
+Video : https://drive.google.com/file/d/1mfRUWSfS9072Ceq4h1EQYd7zT577m-vN/view?usp=sharing
 
